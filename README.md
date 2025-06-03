@@ -1,7 +1,1 @@
-# Originem Privacy Policy
 
-This app does not collect, store, or share any personal data. 
-
-We do not track you or analyze your behavior. 
-
-Any date you enter into the app stays on your device and is never transmitted to us or third parties.
